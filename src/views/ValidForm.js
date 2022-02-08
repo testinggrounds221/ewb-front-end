@@ -23,7 +23,7 @@ class ValidForm extends React.Component {
       .catch((e) => console.log(`Error ${e}`));
   };
   render() {
-    return <div>VALID USER</div>;
+    return <div>VALID USER CHANGE</div>;
   }
 }
 
